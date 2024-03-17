@@ -58,22 +58,6 @@ Overall, the Tic Tac Toe game is a simple yet fun game that is perfect for quick
 <!-- ................................................................................................................................. -->
 
 
-
-### Video
-<p align="justify">
-You can exclusively watch the video on this project from the making to deploying on my     channel with the link given below<br>
-
-  [Video Link](# ) <br>
-
-  If you like my video then do Like the Video and share it with others.
-</p>
-
-
-<br><br>
-<!-- ................................................................................................................................. -->
-
-
-
 ### Gaming Interface<br><br>
 ![GUI for this Project](demo.png)
 
